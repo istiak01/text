@@ -1,0 +1,17 @@
+
+.pic{
+	width: 335px;
+    padding: 5px;
+    border: 3px #6C6E72 solid;
+    outline: 1px red solid;
+    outline-offset: 12px;
+    margin-top: 15px;
+}
+.hh{
+	width: 350px;
+}
+
+#pra{
+	font-size: 200%;
+	font-family: 'Trade Winds', ;
+}
